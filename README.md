@@ -4,10 +4,6 @@ Full stack engineer. Knowledge in working with web client technologies, like Rea
 
 I like solving problems, music, building tools, learning new things, game development, anime/manga, and coca cola.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jmnuf/count.svg" />
-</p>
 
 ## console.log("My Stats", stats);
 
