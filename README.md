@@ -7,9 +7,8 @@ I like solving problems, music, building tools, learning new things, game develo
 
 ## console.log("My Stats", stats);
 
-[![jmnuf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jmnuf&theme=tokyonight&show_icons=true)](https://github.com/jmnuf)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=jmnuf&theme=tokyonight&show_icons=true)](https://github.com/jmnuf)
+![jmnuf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jmnuf&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=jmnuf&theme=tokyonight&show_icons=true&langs_count=20&layout=pie)
 
 
 <!---
